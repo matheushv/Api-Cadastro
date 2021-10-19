@@ -25,11 +25,10 @@ INDEX VERSION 1.131+/home/matheus/Projeto-Pessoal/ApiRest-Delta/.metadata/.plugi
 3904798126.index
 2274422515.index
 3968369743.index
-2695190129.index
-3949366491.index
-1476245916.index
-1052507346.index
 1184398027.index
+3949366491.index
+2695190129.index
+1052507346.index
 608925656.index
 2438575790.index
 3035328487.index
@@ -52,8 +51,8 @@ INDEX VERSION 1.131+/home/matheus/Projeto-Pessoal/ApiRest-Delta/.metadata/.plugi
 2138104610.index
 1845640653.index
 1275284467.index
-1549862392.index
 3135968647.index
+1549862392.index
 1717998723.index
 3863809942.index
 647355130.index
